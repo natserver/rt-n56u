@@ -1,7 +1,7 @@
 /* 360P2 */
 
-#define BOARD_PID		"360P2"
-#define BOARD_NAME		"360P2"
+#define BOARD_PID		"btfly"
+#define BOARD_NAME		"btfly"
 #define BOARD_DESC		"360 P2 Wireless Router"
 #define BOARD_VENDOR_NAME	"netcore"
 #define BOARD_VENDOR_URL	"http://luyou.360.cn"
