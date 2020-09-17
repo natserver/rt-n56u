@@ -2,7 +2,7 @@
 
 #define BOARD_PID		"PSG1218"
 #define BOARD_NAME		"S-LINK"
-#define BOARD_DESC		"PHICOMM PSG1218 Wireless Router"
+#define BOARD_DESC		"PHICOMM S-LINK Wireless Router"
 #define BOARD_VENDOR_NAME	"PHICOMM"
 #define BOARD_VENDOR_URL	"http://www.phicomm.com/"
 #define BOARD_MODEL_URL		"http://www.phicomm.com/"
